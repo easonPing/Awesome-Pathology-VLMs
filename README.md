@@ -2,6 +2,12 @@
 
 **A curated awesome list of pathology vision-language models, datasets, benchmarks, and related resources.**
 
+<p align="center">
+  <img src="hero_image/hero_image%20(4).png" alt="Awesome Pathology VLMs" width="100%">
+</p>
+
+Photo Credit: GPT-generated image.
+
 ## News & Updates
 
 - [Ongoing] This repository is being actively curated for pathology VLMs, datasets, benchmarks, and related resources.
